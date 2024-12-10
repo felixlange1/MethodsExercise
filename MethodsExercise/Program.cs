@@ -5,6 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine(Plus(2, 5));
+            Minus(7, 2);
+            Multiply(3, 3);
+            Divide(15, 5);
             StoryMethod();
             
         }
